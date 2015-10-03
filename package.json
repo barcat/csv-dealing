@@ -1,0 +1,22 @@
+{
+  "name": "csv-dealing",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "readCSV.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barcat/csv-dealing.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "d1catt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barcat/csv-dealing/issues"
+  },
+  "homepage": "https://github.com/barcat/csv-dealing#readme"
+}
